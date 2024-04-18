@@ -22,11 +22,11 @@
     "url": "https://github.com/inirey/RESTAPI/issues"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.27.2",
     "base-64": "^1.0.0",
     "base32": "0.0.6",
     "chalk": "^4.1.0",
-    "cheerio": "^1.0.0-rc.5",
+    "cheerio": "^1.0.0-rc.10",
     "child_process": "^1.0.2",
     "facebook-video-link": "^1.0.2",
     "cors": "^2.8.5",
@@ -45,7 +45,7 @@
     "instatouch": "^2.3.3",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
-    "mongodb": "^3.6.3",
+    "mongodb": "^5.5.0",
     "monk": "^7.3.3",
     "morgan": "^1.10.0",
     "needle": "^2.6.0",
