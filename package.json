@@ -33,9 +33,6 @@
     "tiktok-scraper-without-watermark": "^1.1.2",
     "path": "^0.12.7",
     "dotenv": "^8.2.0",
-    "canvacord": "^5.2.1",
-    "canvas": "^2.8.0",
-    "canvas-hikki": "github:ZyxMapLe/canvas-hikki",
     "emoji-api": "^1.0.2",
     "express": "^4.17.1",
     "fbdl-core": "^1.0.2",
@@ -53,11 +50,8 @@
     "nodemon": "^2.0.7",
     "request": "^2.88.2",
     "ssl-express-www": "^3.0.7",
-    "skh-api": "^1.0.0",
     "tiktok-scraper": "^1.4.12",
     "urlencode": "^1.1.0",
-    "api-rey": "1.1.0",
-    "zrapi": "0.0.6"
   },
   "homepage": "https://github.com/inirey/RESTAPI#readme"
 }
