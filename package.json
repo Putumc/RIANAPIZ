@@ -49,6 +49,8 @@
     "node-fetch": "^2.6.1",
     "nodemon": "^2.0.7",
     "request": "^2.88.2",
+    "skh-api": "^1.0.0",
+    "api-rey": "1.1.0",
     "ssl-express-www": "^3.0.7",
     "tiktok-scraper": "^1.4.12",
     "urlencode": "^1.1.0",
